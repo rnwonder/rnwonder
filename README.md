@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hello there 👋 Rnwonder here
 
 - 🔭 I’m currently working on making Nigeria great!
 - 🌱 I’m currently learning react, adonisjs, firebase, expressjs, flutter, vue

@@ -6,5 +6,5 @@
 - 💬 Ask me about anything not related to agbado and cassava
 - 📫 How to reach me: rnwonder@gmail.com
 - ⚡ Fun fact: You might have guessed this but, I don't like agbado and cassava
-- 
+
 - 💼 Currently experienced with reactjs, expressjs, adonisjs, astrojs, tailwind, sass, emotion js,

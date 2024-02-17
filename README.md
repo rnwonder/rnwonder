@@ -1,6 +1,6 @@
 ### Hello there <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> Rnwonder here
 
-- 🌱 I’m currently learning react native, ML and a couple of fun stuffs
+- 🌱 I’m currently learning react native, Go and a couple of fun stuffs
 - 👯 I’m looking to collaborate on any javascript web or mobile base project.
 - 💬 Ask me about anything!
 - 📫 How to reach me: rnwonder@gmail.com
